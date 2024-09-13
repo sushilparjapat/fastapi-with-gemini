@@ -5,3 +5,4 @@ langserve
 uvicorn
 streamlit
 requests
+sse_starlette
